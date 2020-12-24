@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(56, 105, 56);
+}
+h1{
+    border-color: rgb(151, 95, 85);
+    border-style:solid;
+    border-radius: 5in;
+}
+img{
+    
+    border-style: solid;
+    border-color: seashell;
+    
+    width: 300px
+  
+}
+
+h1{
+    background-color: wheat;
+font-family: 'Pacifico', 'Courier New' ;
+    color:rgb(54, 47, 54);
+  
+           font-size: 400%;
+}
+h2{
+    font-family: 'Langar', Tahoma;
+    background-color: wheat;
+    color: rgb(82, 58, 55);
+
+           font-size: 150%;
+}
+h3{
+    font-family:'Langar', monospace;
+    background-color: wheat;
+ 
+           font-size: 100%;
+}
+a:visited{
+    color: black;
+   }
+a:active{
+    color: maroon;
+ }
+
+
